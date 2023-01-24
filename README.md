@@ -7,13 +7,16 @@
 
 ## Skills
 - 👨‍💻 HTML, CSS, SASS 
-- ⚙️  TypeScript, JavaScript, React
+- ⚙️  JavaScript, TypeScript, React
 - 👁️ Photoshop, Illustrator, Figma
 
 ## My Contact Info:
 * **Website:** [alexrozhkov.com](https://alexrozhkov.com "website")
-* **Email:** [alexander_rozhkov@icloud.com](href="mailto:alexander_rozhkov@icloud.com "email")
-* **GitHub:** [sasharozhkov](https://github.com/sasharozhkov "github")
-* **Telegram:** [AlexanderRozhkov](https://t.me/AlexanderRozhkov "telegram")
+* **Email:** [alexander_rozhkov@icloud.com](mailto:alexander_rozhkov@icloud.com "email")
+* **Telegram:** [@alexrozhkovcom](https://t.me/alexrozhkovcom "telegram")
 * **Twitter:** [@alexrozhkovcom](https://twitter.com/alexrozhkovcom "twitter")
 * **Instagram:** [@alexrozhkovcom](https://www.instagram.com/alexrozhkovcom "instagram")
+* **Facebook:** [@alexrozhkovcom](https://www.facebook.com/alexrozhkovcom "facebook")
+* **Vk:** [@alexrozhkovcom](https://vk.com/alexrozhkovcom "vk")
+* **Linkedin:** [@alexander-rozhkov](https://www.linkedin.com/in/alexander-rozhkov-805471233 "linkedin")
+* **Pinterest:** [@alexander_rozhkov](https://www.pinterest.com/alexander_rozhkov "pinterest")
